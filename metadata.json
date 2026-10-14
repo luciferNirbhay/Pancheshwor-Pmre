@@ -1,0 +1,6 @@
+{
+  "name": "Pancheshwor Real Estate",
+  "description": "Property listings, tap-to-view NPR price & m² area photo viewer, and Nepal Bigha-Kattha-Dhur land converter for Mahendranagar (Bhimdatta).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
